@@ -3,7 +3,9 @@
 </h1>
 Projeto criado para aprendizado. O projeto consiste em cadastro de spots para desenvolvedores ficarem alocados em empresas, alavancando assim o seu conhecimento.
 <br/>
+<br/>
 Trabalharemos com as ferramentas HTML, CSS, React.js, Node.js e React Native.
+<br/>
 <br/>
 <img src="https://github.com/rafaeleduardoteixeira/aircnc/blob/master/prev/Screen-Shot-2019-11-29-at-12.39.36-scaled.png"/>
 <br/>
